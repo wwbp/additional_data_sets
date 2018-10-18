@@ -1,0 +1,2469 @@
+
+==============================
+Topic Tag Cloud Data for CountyRate
+--------------------------------
+PositiveRs:
+------------
+
+
+[Topic Id: 208, R: 0.171, p: 0.0000, N: 1003, Freq: 20453736]
+york:25:810000
+city:23:b20b16
+ny:22:b61233
+nyc:21:991452
+streets:20:791873
+carl:19:5c1a92
+putting:18:401db1
+jungle:17:2320cf
+lights:16:3030c7
+boston:15:4141bc
+brand:14:5454af
+complete:13:6565a4
+concrete:12:767698
+chicago:11:868699
+inspire:10:9898a0
+
+
+[Topic Id: 292, R: 0.159, p: 0.0000, N: 1003, Freq: 35241566]
+dj:25:810000
+party:23:b20b16
+free:22:b61233
+club:21:991452
+drinks:20:791873
+pm:19:5c1a92
+drink:18:401db1
+lounge:17:2320cf
+ladies:16:3030c7
+bar:15:4141bc
+vip:14:5454af
+guest:13:6565a4
+entry:12:767698
+event:11:868699
+cover:10:9898a0
+
+
+[Topic Id: 460, R: 0.136, p: 0.0000, N: 1003, Freq: 19897995]
+show:25:810000
+fashion:23:b20b16
+style:22:b61233
+oprah:21:991452
+magazine:20:791873
+model:19:5c1a92
+models:18:401db1
+latest:17:2320cf
+coco:16:3030c7
+trend:15:4141bc
+shoot:14:5454af
+cover:13:6565a4
+shows:12:767698
+issue:11:868699
+fabulous:10:9898a0
+
+
+[Topic Id: 1235, R: 0.133, p: 0.0000, N: 1003, Freq: 28668403]
+commercial:25:810000
+ad:23:b20b16
+commercials:22:b61233
+tv:21:991452
+guy:20:791873
+ads:19:5c1a92
+advertising:18:401db1
+annoying:17:2320cf
+superbowl:16:3030c7
+snuggie:15:4141bc
+showing:14:5454af
+noticed:13:6565a4
+product:12:767698
+hilarious:11:9898a0
+target:10:9898a0
+
+
+[Topic Id: 178, R: 0.129, p: 0.0000, N: 1003, Freq: 17296416]
+:/:25:810000
+http:23:b20b16
+www:22:b61233
+formspring:21:991452
+chat:20:791873
+video:19:5c1a92
+join:18:401db1
+link:17:2320cf
+li:16:3030c7
+click:15:4141bc
+questions:14:5454af
+joined:13:6565a4
+myspace:12:767698
+vid:11:868699
+vote:10:9898a0
+
+
+[Topic Id: 252, R: 0.127, p: 0.0000, N: 1003, Freq: 11977755]
+vegas:25:810000
+las:23:b20b16
+trip:22:b61233
+casino:21:991452
+leaving:20:791873
+cali:19:5c1a92
+bound:18:401db1
+stays:17:2320cf
+woohoo:16:3030c7
+viva:15:4141bc
+california:14:5454af
+desert:13:6565a4
+strip:12:767698
+hangover:11:868699
+arizona:10:9898a0
+
+
+[Topic Id: 1808, R: 0.125, p: 0.0000, N: 1003, Freq: 8911529]
+ng:25:810000
+ch:23:b20b16
+di:22:b61233
+bi:21:991452
+gi:20:791873
+ti:19:5c1a92
+dc:18:401db1
+con:17:2320cf
+mu:16:3030c7
+ra:15:4141bc
+vi:14:5454af
+nay:13:6565a4
+cu:12:767698
+ai:11:868699
+bu:10:9898a0
+
+
+[Topic Id: 979, R: 0.124, p: 0.0000, N: 1003, Freq: 15000914]
+tan:25:810000
+lee:23:b20b16
+li:22:b61233
+chan:21:991452
+kim:20:791873
+chin:19:5c1a92
+wo:18:401db1
+yang:17:2320cf
+mei:16:3030c7
+le:15:4141bc
+wan:14:5454af
+michelle:13:6565a4
+han:12:767698
+ting:11:868699
+chinese:10:9898a0
+
+
+[Topic Id: 1832, R: 0.122, p: 0.0001, N: 1003, Freq: 12914383]
+maria:25:810000
+carlos:23:b20b16
+juan:22:b61233
+jose:21:991452
+garcia:20:791873
+ana:19:5c1a92
+lopez:18:401db1
+andrea:17:2320cf
+jessica:16:3030c7
+diana:15:4141bc
+daniel:14:5454af
+alex:13:6565a4
+victor:12:767698
+stephanie:11:868699
+nicole:10:9898a0
+
+
+[Topic Id: 1044, R: 0.122, p: 0.0000, N: 1003, Freq: 29669207]
+support:25:810000
+leave:23:b20b16
+free:22:b61233
+show:21:991452
+stand:20:791873
+troops:19:5c1a92
+hour:18:401db1
+post:17:2320cf
+excuses:16:3030c7
+lets:15:4141bc
+everyone's:14:5454af
+front:13:6565a4
+everyones:12:767698
+country:11:868699
+bra:10:9898a0
+
+
+[Topic Id: 1972, R: 0.122, p: 0.0000, N: 1003, Freq: 20560251]
+key:25:810000
+door:23:b20b16
+lock:22:b61233
+locked:21:991452
+open:20:791873
+room:19:5c1a92
+caps:18:401db1
+inside:17:2320cf
+keys:16:3030c7
+gate:15:4141bc
+doors:14:5454af
+closet:13:6565a4
+locks:12:767698
+throw:11:868699
+bathroom:10:9898a0
+
+
+[Topic Id: 1385, R: 0.122, p: 0.0001, N: 1003, Freq: 7632080]
+ni:25:810000
+don:22:b81231
+ll:20:81176b
+ve:18:4a1ca6
+:\:16:2727cd
+haven:14:4848b7
+nan:12:6969a1
+wells:10:88889a
+
+
+[Topic Id: 1214, R: 0.122, p: 0.0001, N: 1003, Freq: 28590657]
+mae:25:810000
+cruz:23:b20b16
+marie:22:b61233
+ate:21:991452
+ann:20:791873
+john:19:5c1a92
+anne:18:401db1
+santos:17:2320cf
+kay:16:3030c7
+mark:15:4141bc
+garcia:14:5454af
+grace:13:6565a4
+maria:12:767698
+jane:11:868699
+tayo:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 3 matched out of 4 total words ]**
+[Topic Id: 1695, R: 0.120, p: 0.0001, N: 1003, Freq: 3259490]
+xa:26:810000
+ll:21:81176b
+don:16:2727cd
+ve:11:6969a1
+
+
+**The following topic did not pass the duplicate filter**
+**[ 4 matched out of 5 total words ]**
+[Topic Id: 749, R: 0.120, p: 0.0001, N: 1003, Freq: 6026702]
+xa:25:810000
+don:21:991452
+ll:17:401db1
+ve:13:4141bc
+:\:10:767698
+
+
+[Topic Id: 744, R: 0.119, p: 0.0001, N: 1003, Freq: 15483962]
+san:25:810000
+diego:23:b20b16
+francisco:22:b61233
+antonio:21:991452
+jose:20:791873
+juan:19:5c1a92
+ca:18:401db1
+california:17:2320cf
+downtown:16:3030c7
+tx:15:4141bc
+bay:14:5454af
+austin:13:6565a4
+anne:12:767698
+fiesta:11:868699
+carlos:10:9898a0
+
+
+[Topic Id: 1817, R: 0.118, p: 0.0002, N: 1003, Freq: 9974312]
+nu:25:810000
+ne:23:b20b16
+te:22:b61233
+di:21:991452
+aa:20:791873
+tu:19:5c1a92
+main:18:401db1
+ki:17:2320cf
+ni:16:3030c7
+dil:15:4141bc
+vi:14:5454af
+ch:13:6565a4
+ke:12:767698
+meri:11:868699
+gal:10:9898a0
+
+
+[Topic Id: 1222, R: 0.118, p: 0.0002, N: 1003, Freq: 8582385]
+ang:25:810000
+sa:23:b20b16
+ng:22:b61233
+na:21:991452
+mga:20:791873
+mo:19:5c1a92
+ay:18:401db1
+hindi:17:2320cf
+ko:16:3030c7
+ka:15:4141bc
+lang:14:5454af
+kung:13:6565a4
+lahat:12:767698
+para:11:868699
+pa:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 4 matched out of 15 total words ]**
+[Topic Id: 214, R: 0.115, p: 0.0005, N: 1003, Freq: 12374603]
+hai:25:810000
+ki:23:b20b16
+se:22:b61233
+ko:21:991452
+ka:20:791873
+ho:19:5c1a92
+ke:18:401db1
+bhi:17:3030c7
+nahi:16:3030c7
+mein:15:4141bc
+dil:14:5454af
+main:13:6565a4
+hain:12:767698
+kya:11:868699
+jo:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 8 matched out of 15 total words ]**
+[Topic Id: 1018, R: 0.115, p: 0.0005, N: 1003, Freq: 16052249]
+sa:25:810000
+na:23:b20b16
+ko:22:b61233
+ang:21:991452
+ka:20:791873
+pa:19:5c1a92
+nga:18:401db1
+mga:17:2320cf
+ni:16:3030c7
+lang:15:4141bc
+kay:14:5454af
+ta:13:6565a4
+akong:12:767698
+wala:11:868699
+lng:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 5 matched out of 14 total words ]**
+[Topic Id: 956, R: 0.113, p: 0.0006, N: 1003, Freq: 4318716]
+don:25:810000
+ve:23:b50c18
+ll:22:b01239
+quote:21:91155a
+ca:20:71187c
+haven:19:521b9d
+:\:18:321ebf
+quotes:16:2727cd
+cone:15:3a3ac1
+che:14:4d4db4
+8d:13:5f5fa7
+whisper:12:72729b
+writer:11:848498
+proverb:10:9797a0
+
+
+[Topic Id: 41, R: 0.113, p: 0.0009, N: 1003, Freq: 16023906]
+na:25:810000
+si:23:b20b16
+je:22:b61233
+tak:21:991452
+se:20:791873
+mi:19:5c1a92
+po:18:401db1
+ale:17:2320cf
+ve:16:3030c7
+ja:15:4141bc
+bo:14:5454af
+mam:13:6565a4
+som:12:767698
+pr:11:868699
+wi:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 9 matched out of 15 total words ]**
+[Topic Id: 784, R: 0.112, p: 0.0009, N: 1003, Freq: 15848362]
+sa:25:810000
+na:23:b20b16
+ng:22:b61233
+ko:21:991452
+mga:20:791873
+po:19:5c1a92
+ako:18:401db1
+lahat:17:2320cf
+ang:16:3030c7
+salamat:15:4141bc
+nyo:14:5454af
+lang:13:6565a4
+kayo:12:767698
+pa:11:868699
+ung:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 11 matched out of 15 total words ]**
+[Topic Id: 1975, R: 0.111, p: 0.0010, N: 1003, Freq: 7883242]
+na:25:810000
+mo:23:b20b16
+ka:22:b61233
+ko:21:991452
+ang:20:791873
+sa:19:5c1a92
+ako:18:401db1
+lang:17:2320cf
+kung:16:3030c7
+ng:15:4141bc
+hindi:14:5454af
+di:13:6565a4
+pa:12:767698
+mahal:11:868699
+kita:10:9898a0
+
+
+[Topic Id: 1219, R: 0.111, p: 0.0015, N: 1003, Freq: 18305100]
+festival:25:810000
+fest:23:b20b16
+arts:22:b61233
+film:21:991452
+jazz:20:791873
+folk:19:5c1a92
+blues:18:401db1
+international:17:2320cf
+greek:16:3030c7
+october:15:4141bc
+harvest:14:5454af
+performing:13:6565a4
+craft:12:767698
+italian:11:868699
+booth:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 9 matched out of 15 total words ]**
+[Topic Id: 503, R: 0.111, p: 0.0012, N: 1003, Freq: 14504777]
+na:25:810000
+ka:23:b20b16
+mo:22:b61233
+ko:21:991452
+ako:20:791873
+ba:19:5c1a92
+ang:18:401db1
+sa:17:2320cf
+si:16:3030c7
+naman:15:4141bc
+pa:14:5454af
+lang:13:6565a4
+ng:12:767698
+nga:11:868699
+yan:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 8 matched out of 15 total words ]**
+[Topic Id: 561, R: 0.111, p: 0.0012, N: 1003, Freq: 10941648]
+na:25:810000
+ko:23:b20b16
+ng:22:b61233
+ako:21:991452
+sa:20:791873
+ang:19:5c1a92
+pa:18:401db1
+lang:17:2320cf
+naman:16:3030c7
+di:15:4141bc
+wala:14:5454af
+sana:13:6565a4
+hindi:12:767698
+bukas:11:868699
+kaya:10:9898a0
+
+
+[Topic Id: 1194, R: 0.110, p: 0.0014, N: 1003, Freq: 40516285]
+de:25:810000
+si:23:b20b16
+sa:22:b61233
+nu:21:991452
+la:20:791873
+cu:19:5c1a92
+ca:18:401db1
+pe:17:2320cf
+mai:16:3030c7
+ce:15:4141bc
+se:14:5454af
+din:13:6565a4
+fi:12:767698
+va:11:868699
+dar:10:9898a0
+
+
+[Topic Id: 1767, R: 0.110, p: 0.0017, N: 1003, Freq: 12695987]
+wah:25:810000
+yeh:23:b20b16
+ah:22:b61233
+hai:21:991452
+wa:20:791873
+ke:19:5c1a92
+le:18:401db1
+mai:17:2320cf
+wel:16:3030c7
+ye:15:4141bc
+eh:14:5454af
+mere:13:6565a4
+chain:12:767698
+rang:11:868699
+bo:10:9898a0
+
+
+[Topic Id: 1324, R: 0.109, p: 0.0032, N: 1003, Freq: 30968205]
+money:25:810000
+support:23:b20b16
+donate:22:b61233
+donations:21:991452
+raise:20:791873
+haiti:19:5c1a92
+charity:18:401db1
+fund:17:2320cf
+donation:16:3030c7
+cancer:15:4141bc
+relief:14:5454af
+helping:13:6565a4
+benefit:12:767698
+donated:11:868699
+raised:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 4 matched out of 15 total words ]**
+[Topic Id: 1326, R: 0.109, p: 0.0017, N: 1003, Freq: 14285279]
+na:25:810000
+sa:23:b20b16
+muna:22:b61233
+bukas:21:991452
+pa:20:791873
+ako:19:5c1a92
+mode:18:401db1
+ulit:17:2320cf
+hehe:16:3030c7
+tulog:15:4141bc
+lang:14:5454af
+lng:13:6565a4
+nyt:12:767698
+pasok:11:868699
+walang:10:9898a0
+
+
+[Topic Id: 236, R: 0.108, p: 0.0025, N: 1003, Freq: 9663143]
+ir:25:810000
+su:23:b20b16
+est:22:b61233
+ar:21:991452
+ne:20:791873
+sum:19:5c1a92
+ego:18:401db1
+bet:17:2320cf
+gal:16:3030c7
+ad:15:4141bc
+pro:14:5454af
+dar:13:6565a4
+ut:12:767698
+jo:11:868699
+ant:10:9898a0
+
+
+[Topic Id: 364, R: 0.108, p: 0.0026, N: 1003, Freq: 20782523]
+el:25:810000
+ya:23:b20b16
+ma:22:b61233
+ana:21:991452
+wa:20:791873
+al:19:5c1a92
+ba:18:401db1
+ala:17:2320cf
+mn:16:3030c7
+ad:15:4141bc
+bs:14:5454af
+ta:13:6565a4
+er:12:767698
+eh:11:868699
+ra:10:9898a0
+
+
+[Topic Id: 1142, R: 0.107, p: 0.0018, N: 1003, Freq: 21778467]
+car:25:810000
+keys:23:b20b16
+left:22:b61233
+lost:21:991452
+locked:20:791873
+found:19:5c1a92
+stole:18:401db1
+purse:17:2320cf
+wallet:16:3030c7
+alicia:15:5454af
+stolen:14:5454af
+forgot:13:6565a4
+pocket:12:767698
+key:11:868699
+bag:10:9898a0
+
+
+[Topic Id: 1005, R: 0.107, p: 0.0029, N: 1003, Freq: 15103123]
+de:25:810000
+um:23:b20b16
+para:22:b61233
+em:21:991452
+se:20:791873
+os:19:5c1a92
+mas:18:401db1
+por:17:2320cf
+dia:16:3030c7
+ser:15:4141bc
+est:14:5454af
+ou:13:6565a4
+como:12:767698
+dos:11:868699
+vida:10:9898a0
+
+
+[Topic Id: 936, R: 0.107, p: 0.0032, N: 1003, Freq: 23979940]
+ya:25:810000
+dig:23:c40f1e
+betta:22:a1144a
+tellin:20:771876
+buddy:19:4f1ca0
+yer:17:281fca
+comin:16:3333c5
+hells:14:4b4bb5
+sista:13:6464a4
+shoulda:11:7b7b95
+spit:10:91919e
+
+
+**The following topic did not pass the duplicate filter**
+**[ 7 matched out of 15 total words ]**
+[Topic Id: 394, R: 0.107, p: 0.0028, N: 1003, Freq: 14570636]
+ng:25:810000
+lng:23:b20b16
+na:22:b61233
+ang:21:991452
+sa:20:791873
+aq:19:5c1a92
+ko:18:401db1
+ung:17:2320cf
+mga:16:3030c7
+nmn:15:4141bc
+pa:14:5454af
+nman:13:6565a4
+tlga:12:767698
+mu:11:868699
+kc:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 4 matched out of 15 total words ]**
+[Topic Id: 1057, R: 0.107, p: 0.0033, N: 1003, Freq: 11388800]
+facebook:25:810000
+chat:23:b20b16
+:/:22:b61233
+signed:21:991452
+uk:20:791873
+http:19:5c1a92
+org:18:401db1
+www:17:2320cf
+cc:16:3030c7
+tiny:15:4141bc
+wikipedia:14:5454af
+sign:13:6565a4
+access:12:767698
+site:11:868699
+pe:10:9898a0
+
+
+[Topic Id: 423, R: 0.107, p: 0.0037, N: 1003, Freq: 14310472]
+eh:25:810000
+dun:23:b20b16
+wan:22:b61233
+tat:21:991452
+dunno:20:791873
+-.-:19:5c1a92
+wif:18:401db1
+pls:17:2320cf
+le:16:3030c7
+sec:15:4141bc
+tis:14:5454af
+cos:13:6565a4
+wth:12:767698
+abt:11:868699
+ar:10:9898a0
+
+
+[Topic Id: 1073, R: 0.107, p: 0.0034, N: 1003, Freq: 13597424]
+mo:25:810000
+te:23:b20b16
+ar:22:b61233
+ne:21:991452
+ti:20:791873
+au:19:5c1a92
+pa:18:401db1
+ou:17:2320cf
+ta:16:3030c7
+ki:15:4141bc
+li:14:5454af
+se:13:6565a4
+le:12:767698
+pu:11:868699
+po:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 4 matched out of 15 total words ]**
+[Topic Id: 455, R: 0.107, p: 0.0034, N: 1003, Freq: 20768954]
+de:25:810000
+te:23:b20b16
+el:22:b61233
+la:21:991452
+mi:20:791873
+en:19:5c1a92
+tu:18:401db1
+es:17:2320cf
+se:16:3030c7
+si:15:4141bc
+por:14:5454af
+yo:13:6565a4
+amor:12:767698
+una:11:868699
+con:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 5 matched out of 15 total words ]**
+[Topic Id: 1911, R: 0.105, p: 0.0051, N: 1003, Freq: 20828548]
+de:25:810000
+la:23:b20b16
+en:22:b61233
+el:21:991452
+mi:20:791873
+los:19:5c1a92
+por:18:401db1
+se:17:2320cf
+dia:16:3030c7
+para:15:4141bc
+con:14:5454af
+las:13:6565a4
+gracias:12:767698
+todos:11:868699
+feliz:10:9898a0
+
+
+[Topic Id: 27, R: 0.104, p: 0.0054, N: 1003, Freq: 18039646]
+mexico:25:810000
+el:23:b20b16
+ay:22:b61233
+viva:21:991452
+te:20:791873
+del:19:5c1a92
+amo:18:401db1
+mexican:17:2320cf
+mar:16:3030c7
+argentina:15:4141bc
+ii:14:5454af
+spanish:13:6565a4
+mucho:12:767698
+fiesta:11:868699
+amigos:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 7 matched out of 15 total words ]**
+[Topic Id: 1665, R: 0.104, p: 0.0054, N: 1003, Freq: 20381292]
+de:25:810000
+mi:23:b20b16
+con:22:b61233
+la:21:991452
+en:20:791873
+el:19:5c1a92
+casa:18:401db1
+tengo:17:2320cf
+pa:16:3030c7
+quiero:15:4141bc
+es:14:5454af
+mucho:13:6565a4
+esta:12:767698
+familia:11:868699
+muy:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 4 matched out of 15 total words ]**
+[Topic Id: 102, R: 0.104, p: 0.0055, N: 1003, Freq: 24587663]
+de:25:810000
+la:23:b20b16
+el:22:b61233
+en:21:991452
+es:20:791873
+los:19:5c1a92
+se:18:401db1
+para:17:2320cf
+por:16:3030c7
+las:15:4141bc
+con:14:5454af
+una:13:6565a4
+del:12:767698
+mi:11:868699
+si:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 5 matched out of 15 total words ]**
+[Topic Id: 1315, R: 0.104, p: 0.0053, N: 1003, Freq: 8171839]
+ng:25:810000
+ang:23:b20b16
+ko:22:b61233
+sa:21:991452
+sakit:20:791873
+sarap:19:5c1a92
+ulo:18:401db1
+pa:17:2320cf
+saya:16:3030c7
+hirap:15:4141bc
+naman:14:5454af
+grabe:13:6565a4
+hay:12:767698
+talaga:11:868699
+mag:10:9898a0
+
+
+[Topic Id: 202, R: 0.104, p: 0.0095, N: 1003, Freq: 30116414]
+mi:25:810000
+dem:23:b20b16
+ah:22:b61233
+fi:21:991452
+di:20:791873
+jus:19:5c1a92
+nah:18:401db1
+dis:17:2320cf
+wid:16:3030c7
+dat:15:4141bc
+ting:14:5454af
+meh:13:6565a4
+wah:12:767698
+kno:11:868699
+wi:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 1 matched out of 1 total words ]**
+[Topic Id: 1474, R: 0.103, p: 0.0070, N: 1003, Freq: 725584]
+xa:14:810000
+
+Negative Rs:
+-------------
+
+
+[Topic Id: 1862, R: 0.200, p: 0.0000, N: 1003, Freq: 15854372]
+school:25:810000
+tomorrow:22:b81231
+back:20:81176b
+work:18:4a1ca6
+ready:16:2727cd
+yay:14:4848b7
+kiddos:12:6969a1
+yayyy:10:88889a
+
+
+[Topic Id: 657, R: 0.195, p: 0.0000, N: 1003, Freq: 18120198]
+work:25:810000
+ready:23:b90d1a
+home:22:ab133f
+bed:21:891663
+tomorrow:20:6a1984
+gotta:18:471ca8
+tired:17:2520cc
+ugh:16:3131c6
+nap:15:4545b9
+shower:13:5a5aab
+rested:12:6e6e9e
+collapse:11:828296
+horribly:10:9595a0
+
+
+[Topic Id: 226, R: 0.190, p: 0.0000, N: 1003, Freq: 14309471]
+tomorrow:25:810000
+school:23:b20b16
+start:22:b61233
+ready:21:991452
+classes:20:791873
+excited:19:5c1a92
+starting:18:401db1
+orientation:17:2320cf
+summer:16:3030c7
+wednesday:15:4141bc
+college:14:5454af
+tuesday:13:6565a4
+nervous:12:767698
+kindergarten:11:868699
+internship:10:9898a0
+
+
+[Topic Id: 63, R: 0.185, p: 0.0000, N: 1003, Freq: 12567500]
+tomorrow:25:810000
+school:23:b90d1a
+day:22:ab133f
+forward:21:891663
+starting:20:6a1984
+meeting:18:471ca8
+exciting:17:2520cc
+hopes:16:3131c6
+dread:15:4545b9
+returning:13:5a5aab
+yikes:12:6e6e9e
+grin:11:828296
+chin:10:9595a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 5 matched out of 10 total words ]**
+[Topic Id: 522, R: 0.185, p: 0.0000, N: 1003, Freq: 11457607]
+tomorrow:25:810000
+school:23:810000
+starts:21:991452
+excited:20:6c1981
+tuesday:18:401db1
+dreading:16:2727cd
+starting:15:4141bc
+yipee:13:5c5ca9
+bummer:11:767698
+noooo:10:8f8f9d
+
+
+**The following topic did not pass the duplicate filter**
+**[ 2 matched out of 7 total words ]**
+[Topic Id: 1405, R: 0.183, p: 0.0000, N: 1003, Freq: 12280517]
+ready:25:810000
+gettin:22:b01239
+leave:20:71187c
+start:17:321ebf
+church:15:3a3ac1
+set:12:5f5fa7
+pumped:10:848498
+
+
+[Topic Id: 355, R: 0.182, p: 0.0000, N: 1003, Freq: 15570543]
+bed:25:810000
+lay:23:b20b16
+sleep:22:b61233
+head:21:991452
+tired:20:791873
+rest:19:5c1a92
+bout:18:401db1
+laying:17:2320cf
+lying:16:3030c7
+wake:15:4141bc
+sleepy:14:5454af
+awake:13:6565a4
+pillow:12:767698
+laid:11:868699
+layin:10:9898a0
+
+
+[Topic Id: 1417, R: 0.180, p: 0.0000, N: 1003, Freq: 17752963]
+day:25:810000
+today:23:c40f1e
+rough:22:a1144a
+hoping:20:771876
+draft:19:4f1ca0
+smooth:17:281fca
+possibly:16:3333c5
+whew:14:4b4bb5
+thankfully:13:6464a4
+spots:11:7b7b95
+smoothly:10:91919e
+
+
+**The following topic did not pass the duplicate filter**
+**[ 3 matched out of 9 total words ]**
+[Topic Id: 237, R: 0.178, p: 0.0000, N: 1003, Freq: 14349564]
+tomorrow:25:810000
+day:23:c01128
+today:21:8e165d
+work:19:5c1a92
+hoping:17:2a1fc7
+forward:15:3636c3
+it'll:13:5454af
+dreading:11:70709c
+technically:10:8c8c9c
+
+
+[Topic Id: 1976, R: 0.176, p: 0.0000, N: 1003, Freq: 12243947]
+ready:25:810000
+today:23:c40f1e
+bring:22:a1144a
+summer:20:771876
+tomorow:19:4f1ca0
+whos:17:281fca
+sooooooo:16:3333c5
+heck:14:4b4bb5
+ahhhhhh:13:6464a4
+looong:11:7b7b95
+rested:10:91919e
+
+
+[Topic Id: 793, R: 0.175, p: 0.0000, N: 1003, Freq: 20264852]
+school:25:810000
+tomorrow:23:b20b16
+yay:22:b61233
+skip:21:991452
+tmrw:20:791873
+ughh:19:5c1a92
+exited:18:401db1
+dreading:17:2320cf
+bleh:16:3030c7
+skipping:15:4141bc
+ew:14:5454af
+yaaay:13:6565a4
+eww:12:767698
+ehh:11:868699
+orientation:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 4 matched out of 15 total words ]**
+[Topic Id: 314, R: 0.174, p: 0.0000, N: 1003, Freq: 17865645]
+bed:25:810000
+tired:23:b20b16
+ready:22:b61233
+sleep:21:991452
+laying:20:791873
+shower:19:5c1a92
+crawl:18:401db1
+goodnight:17:2320cf
+exhausted:16:3030c7
+bath:15:4141bc
+layin:14:5454af
+outta:13:6565a4
+sleepy:12:767698
+cuddle:11:868699
+curl:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 5 matched out of 13 total words ]**
+[Topic Id: 1918, R: 0.174, p: 0.0000, N: 1003, Freq: 15329596]
+back:25:810000
+work:23:b90d1a
+tomorrow:22:ab133f
+school:21:891663
+ready:20:6a1984
+vacation:18:471ca8
+monday:17:2520cc
+weeks:16:3131c6
+dreading:15:4545b9
+sigh:13:5a5aab
+yuck:12:6e6e9e
+routine:11:828296
+grind:10:9595a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 5 matched out of 15 total words ]**
+[Topic Id: 1436, R: 0.173, p: 0.0000, N: 1003, Freq: 13469834]
+bed:25:810000
+sleep:23:b20b16
+tired:22:b61233
+night:21:991452
+early:20:791873
+tonight:19:5c1a92
+goodnight:18:401db1
+goin:17:2320cf
+exhausted:16:3030c7
+calling:15:4141bc
+hrs:14:5454af
+zzzzz:13:6565a4
+worn:12:767698
+yawn:11:868699
+retire:10:9898a0
+
+
+[Topic Id: 323, R: 0.173, p: 0.0000, N: 1003, Freq: 22264290]
+can't:25:810000
+anymore:23:b20b16
+don't:22:b61233
+stand:21:991452
+handle:20:791873
+bothered:19:5c1a92
+won't:18:401db1
+complain:17:2320cf
+deal:16:3030c7
+explain:15:4141bc
+figure:14:5454af
+afford:13:6565a4
+properly:12:767698
+cope:11:868699
+careful:10:9898a0
+
+
+[Topic Id: 1578, R: 0.173, p: 0.0000, N: 1003, Freq: 18558123]
+night:25:810000
+tonight:23:b20b16
+girls:22:b61233
+blast:21:991452
+forward:20:791873
+hanging:19:5c1a92
+needed:18:401db1
+bonfire:17:2320cf
+babysitting:16:3030c7
+sleepover:15:4141bc
+girly:14:5454af
+partying:13:6565a4
+favorites:12:767698
+bestie:11:868699
+girlies:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 4 matched out of 14 total words ]**
+[Topic Id: 1028, R: 0.172, p: 0.0000, N: 1003, Freq: 23969133]
+day:25:810000
+long:23:b50c18
+work:22:b01239
+tomorrow:21:91155a
+ready:20:71187c
+bed:19:521b9d
+exhausted:18:321ebf
+stressful:16:2727cd
+relax:15:3a3ac1
+hectic:14:4d4db4
+stretch:13:5f5fa7
+meetings:12:72729b
+bedtime:11:848498
+resting:10:9797a0
+
+
+[Topic Id: 1791, R: 0.172, p: 0.0000, N: 1003, Freq: 24171378]
+hurt:25:810000
+feelings:23:b20b16
+ignore:22:b61233
+person:21:991452
+hurting:20:791873
+adore:19:5c1a92
+apologize:18:401db1
+locker:17:2320cf
+realize:16:3030c7
+they've:15:4141bc
+badly:14:5454af
+ironic:13:6565a4
+meant:12:767698
+deeply:11:868699
+showing:10:9898a0
+
+
+[Topic Id: 1742, R: 0.172, p: 0.0000, N: 1003, Freq: 16053945]
+can't:26:810000
+wait:21:81176b
+tomorrow:16:2727cd
+beleive:11:6969a1
+
+
+[Topic Id: 600, R: 0.171, p: 0.0000, N: 1003, Freq: 15786302]
+game:25:810000
+football:23:b20b16
+tonight:22:b61233
+watch:21:991452
+play:20:791873
+basketball:19:5c1a92
+hockey:18:401db1
+boys:17:2320cf
+season:16:3030c7
+homecoming:15:4141bc
+volleyball:14:5454af
+baseball:13:6565a4
+intense:12:767698
+pumped:11:868699
+twins:10:9898a0
+
+
+[Topic Id: 1354, R: 0.171, p: 0.0000, N: 1003, Freq: 19029591]
+nap:25:810000
+taking:23:b20b16
+woke:22:b61233
+hour:21:991452
+afternoon:20:791873
+naps:19:5c1a92
+needed:18:401db1
+power:17:2320cf
+quick:16:3030c7
+hr:15:4141bc
+exhausted:14:5454af
+takin:13:6565a4
+earlier:12:767698
+napping:11:868699
+wakes:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 3 matched out of 5 total words ]**
+[Topic Id: 1218, R: 0.171, p: 0.0000, N: 1003, Freq: 12195648]
+can't:25:810000
+wait:21:991452
+tomorrow:17:401db1
+till:13:4141bc
+girlies:10:767698
+
+
+**The following topic did not pass the duplicate filter**
+**[ 2 matched out of 6 total words ]**
+[Topic Id: 135, R: 0.170, p: 0.0000, N: 1003, Freq: 9270874]
+can't:25:810000
+wait:22:a61344
+afford:19:5c1a92
+move:16:2727cd
+belive:13:5454af
+concentrate:10:7e7e95
+
+
+**The following topic did not pass the duplicate filter**
+**[ 5 matched out of 15 total words ]**
+[Topic Id: 1952, R: 0.170, p: 0.0000, N: 1003, Freq: 15456894]
+early:25:810000
+work:23:b20b16
+gotta:22:b61233
+bed:21:991452
+tomorrow:20:791873
+wake:19:5c1a92
+morning:18:401db1
+sleep:17:2320cf
+mornin:16:3030c7
+tired:15:4141bc
+goodnight:14:5454af
+morn:13:6565a4
+tmrw:12:767698
+headin:11:868699
+gota:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 3 matched out of 9 total words ]**
+[Topic Id: 1090, R: 0.168, p: 0.0000, N: 1003, Freq: 10990809]
+day:25:810000
+work:23:c01128
+school:21:8e165d
+productive:19:5c1a92
+survived:17:2a1fc7
+allll:15:3636c3
+hopes:13:5454af
+alll:11:70709c
+dreading:10:8c8c9c
+
+
+[Topic Id: 422, R: 0.168, p: 0.0000, N: 1003, Freq: 20501650]
+starting:25:810000
+feel:23:b20b16
+finally:22:b61233
+bit:21:991452
+piss:20:791873
+freak:19:5c1a92
+startin:18:401db1
+nerves:17:2320cf
+annoy:16:3030c7
+normal:15:4141bc
+begining:14:5454af
+irritated:13:6565a4
+school's:12:767698
+pattern:11:868699
+homesick:10:9898a0
+
+
+[Topic Id: 88, R: 0.167, p: 0.0000, N: 1003, Freq: 19419299]
+ready:25:810000
+weekend:23:c01128
+start:21:8e165d
+week:19:5c1a92
+packed:17:2a1fc7
+begin:15:3636c3
+tackle:13:5454af
+rested:11:70709c
+refreshed:10:8c8c9c
+
+
+[Topic Id: 1216, R: 0.167, p: 0.0000, N: 1003, Freq: 23694953]
+won't:25:810000
+i'll:23:b20b16
+don't:22:b61233
+leave:21:991452
+give:20:791873
+promise:19:5c1a92
+forget:18:401db1
+hold:17:2320cf
+it'll:16:3030c7
+regret:15:4141bc
+alright:14:5454af
+swear:13:6565a4
+they'll:12:767698
+guarantee:11:868699
+anytime:10:9898a0
+
+
+[Topic Id: 1752, R: 0.166, p: 0.0000, N: 1003, Freq: 22771006]
+don't:25:810000
+understand:23:b20b16
+people:22:b61233
+doesn't:21:991452
+they'd:20:791873
+broken:19:5c1a92
+expect:18:401db1
+everything's:17:2320cf
+honestly:16:3030c7
+types:15:4141bc
+impress:14:5454af
+they'll:13:6565a4
+they've:12:767698
+bother:11:868699
+everythings:10:9898a0
+
+
+[Topic Id: 730, R: 0.165, p: 0.0000, N: 1003, Freq: 16263619]
+conversation:25:810000
+talking:23:b20b16
+talk:22:b61233
+interesting:21:991452
+conversations:20:791873
+convo:19:5c1a92
+random:18:401db1
+awkward:17:2320cf
+talked:16:3030c7
+deep:15:4141bc
+argument:14:5454af
+actual:13:6565a4
+talks:12:767698
+topic:11:868699
+skype:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 6 matched out of 15 total words ]**
+[Topic Id: 231, R: 0.164, p: 0.0000, N: 1003, Freq: 19347824]
+home:25:810000
+work:23:b20b16
+ready:22:b61233
+hubby:21:991452
+bed:20:791873
+relax:19:5c1a92
+dinner:18:401db1
+shower:17:2320cf
+relaxing:16:3030c7
+heading:15:4141bc
+nap:14:5454af
+early:13:6565a4
+chill:12:767698
+supper:11:868699
+snuggle:10:9898a0
+
+
+[Topic Id: 990, R: 0.164, p: 0.0000, N: 1003, Freq: 11833359]
+time:25:810000
+nap:23:c01128
+long:21:8e165d
+needed:19:5c1a92
+relax:17:2a1fc7
+longest:15:3636c3
+loooong:13:5454af
+looong:11:70709c
+welp:10:8c8c9c
+
+
+**The following topic did not pass the duplicate filter**
+**[ 2 matched out of 6 total words ]**
+[Topic Id: 128, R: 0.164, p: 0.0000, N: 1003, Freq: 10308582]
+can't:25:810000
+wait:22:a61344
+decide:19:5c1a92
+imagine:16:2727cd
+figure:13:5454af
+concentrate:10:7e7e95
+
+
+[Topic Id: 1579, R: 0.164, p: 0.0000, N: 1003, Freq: 18585509]
+today:25:810000
+turned:23:b20b16
+realized:22:b61233
+thought:21:991452
+started:20:791873
+yesterday:19:5c1a92
+looked:18:401db1
+didn't:17:2320cf
+felt:16:3030c7
+wasn't:15:4141bc
+woke:14:5454af
+decided:13:6565a4
+happened:12:767698
+wanted:11:868699
+horrible:10:9898a0
+
+
+[Topic Id: 113, R: 0.164, p: 0.0000, N: 1003, Freq: 8296313]
+sleep:25:810000
+can't:23:b20b16
+tired:22:b61233
+ugh:21:991452
+insomnia:20:791873
+sucks:19:5c1a92
+grr:18:401db1
+grrr:17:2320cf
+reverse:16:3030c7
+grrrr:15:4141bc
+night's:14:5454af
+overrated:13:6565a4
+snoring:12:767698
+nyquil:11:9898a0
+restless:10:9898a0
+
+
+[Topic Id: 1448, R: 0.164, p: 0.0000, N: 1003, Freq: 14680570]
+don't:25:810000
+anymore:23:b20b16
+bother:22:b61233
+won't:21:991452
+worry:20:791873
+care:19:5c1a92
+doesn't:18:401db1
+reason:17:2320cf
+didn't:16:3030c7
+point:15:4141bc
+there's:14:5454af
+realize:13:6565a4
+matters:12:767698
+recognize:11:868699
+argue:10:9898a0
+
+
+[Topic Id: 1351, R: 0.164, p: 0.0000, N: 1003, Freq: 16479754]
+don't:25:810000
+worry:23:b20b16
+bout:22:b61233
+alright:21:991452
+worrying:20:791873
+trouble:19:5c1a92
+fine:18:401db1
+worried:17:2320cf
+it'll:16:3030c7
+shouldn't:15:4141bc
+worries:14:5454af
+troubles:13:6565a4
+singin:12:767698
+concern:11:868699
+whatsoever:10:9898a0
+
+
+[Topic Id: 1738, R: 0.163, p: 0.0000, N: 1003, Freq: 17924508]
+work:25:810000
+parents:23:b20b16
+job:22:b61233
+made:21:991452
+wanted:20:791873
+gave:19:5c1a92
+chores:18:401db1
+kid:17:2320cf
+everyday:16:3030c7
+grew:15:4141bc
+church:14:5454af
+respect:13:6565a4
+pride:12:767698
+law:11:868699
+morals:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 3 matched out of 10 total words ]**
+[Topic Id: 1803, R: 0.162, p: 0.0000, N: 1003, Freq: 14886423]
+night:25:810000
+sleep:23:810000
+tonight:21:991452
+rest:20:6c1981
+hoping:18:401db1
+night's:16:2727cd
+needed:15:4141bc
+decent:13:5c5ca9
+sleeps:11:767698
+stink:10:8f8f9d
+
+
+[Topic Id: 1908, R: 0.161, p: 0.0000, N: 1003, Freq: 37374117]
+i'm:25:810000
+it's:23:b20b16
+i've:22:b61233
+don't:21:991452
+lost:20:791873
+mind:19:5c1a92
+quarter:18:401db1
+wouldn't:17:2320cf
+anymore:16:3030c7
+control:15:4141bc
+reason:14:5454af
+century:13:6565a4
+figure:12:767698
+cross:11:868699
+floor:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 4 matched out of 15 total words ]**
+[Topic Id: 1613, R: 0.161, p: 0.0000, N: 1003, Freq: 22744357]
+wouldn't:25:810000
+didn't:23:b20b16
+wasn't:22:b61233
+weren't:21:991452
+knew:20:791873
+couldn't:19:5c1a92
+wanted:18:401db1
+i'd:17:2320cf
+hadn't:16:3030c7
+met:15:4141bc
+happened:14:5454af
+crushed:13:6565a4
+surprised:12:767698
+explain:11:9898a0
+shouldn't:10:9898a0
+
+
+[Topic Id: 992, R: 0.161, p: 0.0000, N: 1003, Freq: 30491550]
+i'll:25:810000
+guess:23:b20b16
+that's:22:b61233
+gravity:21:991452
+it'll:20:791873
+goodbye:19:5c1a92
+guessing:18:401db1
+suppose:17:2320cf
+sooner:16:3030c7
+else's:15:4141bc
+limits:14:6565a4
+accepting:13:6565a4
+leap:12:767698
+odds:11:868699
+elses:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 2 matched out of 5 total words ]**
+[Topic Id: 1012, R: 0.161, p: 0.0000, N: 1003, Freq: 13371855]
+wait:25:810000
+can't:21:991452
+till:17:401db1
+weekend:13:4141bc
+nevermind:10:767698
+
+
+[Topic Id: 1548, R: 0.160, p: 0.0000, N: 1003, Freq: 12843048]
+i'm:25:810000
+sick:23:b20b16
+tired:22:b61233
+feeling:21:991452
+hearing:20:791873
+tire:19:5c1a92
+fed:18:401db1
+bullshit:17:2320cf
+assuming:16:3030c7
+hurting:15:4141bc
+numb:14:5454af
+surface:13:6565a4
+expecting:12:767698
+aware:11:868699
+complaining:10:9898a0
+
+
+[Topic Id: 1657, R: 0.160, p: 0.0000, N: 1003, Freq: 15478490]
+phone:25:810000
+text:23:b20b16
+calls:22:b61233
+texts:21:991452
+messages:20:791873
+call:19:5c1a92
+reply:18:401db1
+send:17:2320cf
+message:16:3030c7
+respond:15:4141bc
+answer:14:5454af
+sending:13:6565a4
+texting:12:767698
+receive:11:868699
+emails:10:9898a0
+
+
+[Topic Id: 40, R: 0.160, p: 0.0000, N: 1003, Freq: 11990593]
+feel:25:810000
+makes:23:b20b16
+make:22:b61233
+doesn't:21:991452
+grow:20:791873
+alive:19:5c1a92
+inside:18:401db1
+uncomfortable:17:2320cf
+absence:16:3030c7
+comfortable:15:4141bc
+distance:14:5454af
+touching:13:6565a4
+numb:12:767698
+helps:11:868699
+growing:10:9898a0
+
+
+[Topic Id: 1984, R: 0.159, p: 0.0000, N: 1003, Freq: 23151234]
+dad:25:810000
+mom:23:b20b16
+proud:22:b61233
+hero:21:991452
+blessed:20:791873
+angel:19:5c1a92
+heaven:18:401db1
+status:17:2320cf
+paste:16:3030c7
+replace:15:4141bc
+lot:14:5454af
+helped:13:6565a4
+copy:12:767698
+matter:11:868699
+working:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 4 matched out of 15 total words ]**
+[Topic Id: 121, R: 0.159, p: 0.0000, N: 1003, Freq: 22221378]
+matter:25:810000
+doesn't:23:b20b16
+matters:22:b61233
+person:21:991452
+care:20:791873
+doesnt:19:5c1a92
+fact:18:401db1
+opinion:17:2320cf
+realize:16:3030c7
+situation:15:4141bc
+count:14:5454af
+meant:13:6565a4
+important:12:767698
+someone's:11:868699
+cares:10:9898a0
+
+
+[Topic Id: 1041, R: 0.159, p: 0.0000, N: 1003, Freq: 25000473]
+forget:25:810000
+don't:23:b20b16
+remember:22:b61233
+learned:21:991452
+remind:20:791873
+here's:19:5c1a92
+maya:18:401db1
+forgotten:17:2320cf
+view:16:3030c7
+involve:15:4141bc
+troubles:14:5454af
+tend:13:6565a4
+nevermind:12:868699
+forgetting:11:868699
+beg:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 4 matched out of 15 total words ]**
+[Topic Id: 15, R: 0.158, p: 0.0000, N: 1003, Freq: 12465718]
+sleep:25:810000
+hours:23:b20b16
+night:22:b61233
+tired:21:991452
+wake:20:791873
+nights:19:5c1a92
+bed:18:401db1
+couldn't:17:2320cf
+woke:16:3030c7
+waking:15:4141bc
+nightmares:14:5454af
+decent:13:6565a4
+restless:12:767698
+night's:11:868699
+exhausted:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 6 matched out of 15 total words ]**
+[Topic Id: 890, R: 0.158, p: 0.0000, N: 1003, Freq: 14413291]
+school:25:810000
+starts:23:b20b16
+tomorrow:22:b61233
+week:21:991452
+summer:20:791873
+monday:19:5c1a92
+weeks:18:401db1
+tuesday:17:2320cf
+wednesday:16:3030c7
+thursday:15:4141bc
+semester:14:5454af
+tomorow:13:6565a4
+registration:12:767698
+kindergarten:11:868699
+yikes:10:9898a0
+
+
+[Topic Id: 19, R: 0.158, p: 0.0000, N: 1003, Freq: 19771432]
+i'm:25:810000
+thinking:23:c40f1e
+wondering:22:a1144a
+sitting:20:771876
+starting:19:4f1ca0
+missing:17:281fca
+heck:16:3333c5
+putting:14:4b4bb5
+contemplating:13:6464a4
+staring:11:7b7b95
+pondering:10:91919e
+
+
+[Topic Id: 428, R: 0.157, p: 0.0000, N: 1003, Freq: 18137401]
+talking:25:810000
+people:23:b20b16
+stop:22:b61233
+telling:21:991452
+talk:20:791873
+idea:19:5c1a92
+annoying:18:401db1
+they're:17:2320cf
+clue:16:3030c7
+count:15:4141bc
+assuming:14:5454af
+judging:13:6565a4
+trash:12:767698
+texting:11:9898a0
+honestly:10:9898a0
+
+
+[Topic Id: 1556, R: 0.157, p: 0.0000, N: 1003, Freq: 19571351]
+don't:25:810000
+give:23:b90d1a
+care:22:ab133f
+anymore:21:891663
+frankly:20:6a1984
+advice:18:471ca8
+act:17:2520cc
+personally:16:3131c6
+shy:15:4545b9
+offended:13:5a5aab
+recall:12:6e6e9e
+reputation:11:828296
+anyone's:10:9595a0
+
+
+[Topic Id: 1259, R: 0.157, p: 0.0000, N: 1003, Freq: 22387533]
+shitty:25:810000
+pretty:23:810000
+mood:21:991452
+horrible:20:6c1981
+flags:18:401db1
+piss:16:2727cd
+tops:15:4141bc
+crappy:13:5c5ca9
+clubs:11:767698
+racist:10:8f8f9d
+
+
+[Topic Id: 1848, R: 0.157, p: 0.0000, N: 1003, Freq: 25657175]
+i'm:25:810000
+don't:23:b90d1a
+mess:22:ab133f
+i've:21:891663
+that's:20:6a1984
+i'll:18:471ca8
+cuz:17:2520cc
+i'ma:16:3131c6
+whoa:15:4545b9
+messing:13:5a5aab
+wreck:12:6e6e9e
+confess:11:828296
+cursed:10:9595a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 4 matched out of 15 total words ]**
+[Topic Id: 1782, R: 0.157, p: 0.0000, N: 1003, Freq: 12019339]
+tired:25:810000
+sleepy:23:b20b16
+sleep:22:b61233
+sooo:21:991452
+ugh:20:791873
+soooo:19:5c1a92
+bed:18:401db1
+soo:17:2320cf
+super:16:3030c7
+nap:15:4141bc
+hungry:14:5454af
+cranky:13:6565a4
+soooooo:12:767698
+yawn:11:868699
+sooooooo:10:9898a0
+
+
+[Topic Id: 143, R: 0.157, p: 0.0000, N: 1003, Freq: 29657665]
+allowed:25:810000
+shouldn't:23:b20b16
+aren't:22:b61233
+guess:21:991452
+apparently:20:791873
+isn't:19:5c1a92
+anymore:18:401db1
+supposed:17:2320cf
+grounded:16:3030c7
+forced:15:4141bc
+telling:14:5454af
+decides:13:6565a4
+joke:12:767698
+scares:11:868699
+technically:10:9898a0
+
+
+[Topic Id: 553, R: 0.157, p: 0.0000, N: 1003, Freq: 18125639]
+worse:25:810000
+things:23:810000
+make:21:991452
+bad:20:6c1981
+happen:18:401db1
+situation:16:2727cd
+suppose:15:4141bc
+matters:13:5c5ca9
+situations:11:767698
+curse:10:8f8f9d
+
+
+[Topic Id: 1122, R: 0.156, p: 0.0000, N: 1003, Freq: 19154441]
+work:25:810000
+back:23:b90d1a
+home:22:ab133f
+days:21:891663
+tomorrow:20:6a1984
+till:18:471ca8
+alas:17:2520cc
+ahhhhh:16:3131c6
+scrubs:15:4545b9
+accidently:13:5a5aab
+anticipation:12:6e6e9e
+soooooooooo:11:828296
+wayy:10:9595a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 4 matched out of 9 total words ]**
+[Topic Id: 1117, R: 0.156, p: 0.0000, N: 1003, Freq: 26575251]
+day:25:810000
+work:23:c01128
+today:21:8e165d
+tomorrow:19:5c1a92
+busy:17:2a1fc7
+stressful:15:3636c3
+scheduled:13:5454af
+planned:11:70709c
+exhausting:10:8c8c9c
+
+
+**The following topic did not pass the duplicate filter**
+**[ 3 matched out of 11 total words ]**
+[Topic Id: 1602, R: 0.156, p: 0.0000, N: 1003, Freq: 23715040]
+day:25:810000
+long:23:c40f1e
+work:22:a1144a
+tomorrow:20:771876
+atleast:19:4f1ca0
+whew:17:281fca
+relaxing:16:3333c5
+tomorow:14:4b4bb5
+longest:13:6464a4
+favorites:11:7b7b95
+continuing:10:91919e
+
+
+**The following topic did not pass the duplicate filter**
+**[ 5 matched out of 15 total words ]**
+[Topic Id: 505, R: 0.156, p: 0.0000, N: 1003, Freq: 11937279]
+early:25:810000
+morning:23:b20b16
+woke:22:b61233
+sleep:21:991452
+bed:20:791873
+night:19:5c1a92
+late:18:401db1
+mornin:17:2320cf
+awake:16:3030c7
+ugh:15:4141bc
+wake:14:5454af
+yawn:13:6565a4
+caught:12:767698
+sleepin:11:868699
+sleepy:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 3 matched out of 11 total words ]**
+[Topic Id: 517, R: 0.156, p: 0.0000, N: 1003, Freq: 14595280]
+work:25:810000
+yay:23:c40f1e
+home:22:a1144a
+tomorrow:20:771876
+early:19:4f1ca0
+booo:17:281fca
+woohoo:16:3333c5
+headed:14:4b4bb5
+tgif:13:6464a4
+payday:11:7b7b95
+yuck:10:91919e
+
+
+[Topic Id: 1518, R: 0.155, p: 0.0000, N: 1003, Freq: 15230614]
+people:25:810000
+hate:23:b20b16
+stupid:22:b61233
+annoying:21:991452
+piss:20:791873
+annoy:19:5c1a92
+stfu:18:401db1
+annoyed:17:2320cf
+pisses:16:3030c7
+assume:15:4141bc
+honestly:14:5454af
+constantly:13:6565a4
+rude:12:767698
+ignorant:11:868699
+insist:10:9898a0
+
+
+[Topic Id: 1891, R: 0.155, p: 0.0000, N: 1003, Freq: 10286559]
+people:25:810000
+lot:23:b20b16
+aren't:22:b61233
+surrounded:21:991452
+bunch:20:791873
+wonders:19:5c1a92
+tend:18:401db1
+realize:17:2320cf
+idiots:16:3030c7
+including:15:4141bc
+telling:14:5454af
+involved:13:6565a4
+prefer:12:767698
+piss:11:868699
+kinds:10:9898a0
+
+
+[Topic Id: 1576, R: 0.155, p: 0.0000, N: 1003, Freq: 12938339]
+back:25:810000
+home:23:810000
+glad:21:991452
+missed:20:6c1981
+sooo:18:401db1
+pat:16:2727cd
+dudes:15:4141bc
+wagon:13:5c5ca9
+sooooooooooo:11:767698
+lining:10:8f8f9d
+
+
+[Topic Id: 1497, R: 0.155, p: 0.0000, N: 1003, Freq: 16961275]
+watching:25:810000
+sitting:23:b20b16
+couch:22:b61233
+tv:21:991452
+movies:20:791873
+laying:19:5c1a92
+eating:18:401db1
+relaxing:17:2320cf
+enjoying:16:3030c7
+chilling:15:4141bc
+cuddling:14:5454af
+sleeping:13:6565a4
+lazy:12:767698
+hubby:11:868699
+sofa:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 3 matched out of 6 total words ]**
+[Topic Id: 215, R: 0.155, p: 0.0000, N: 1003, Freq: 11279958]
+wait:25:810000
+can't:22:a61344
+till:19:5c1a92
+tomorrow:16:2727cd
+meet:13:5454af
+tomarrow:10:7e7e95
+
+
+[Topic Id: 1810, R: 0.154, p: 0.0000, N: 1003, Freq: 22762348]
+it's:25:810000
+i'm:23:b20b16
+can't:22:b61233
+there's:21:991452
+i've:20:791873
+feels:19:5c1a92
+wrong:18:401db1
+explain:17:2320cf
+breathe:16:3030c7
+fight:15:4141bc
+steel:14:5454af
+somebody's:13:6565a4
+knife:12:767698
+suffer:11:868699
+drown:10:9898a0
+
+
+[Topic Id: 869, R: 0.154, p: 0.0000, N: 1003, Freq: 18077367]
+start:25:810000
+working:23:b20b16
+decided:22:b61233
+finally:21:991452
+quit:20:791873
+job:19:5c1a92
+legit:18:401db1
+making:17:2320cf
+started:16:3030c7
+dang:15:4141bc
+putting:14:5454af
+randomly:13:6565a4
+wood:12:767698
+decides:11:868699
+needa:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 3 matched out of 11 total words ]**
+[Topic Id: 1535, R: 0.154, p: 0.0000, N: 1003, Freq: 16878832]
+work:25:810000
+home:23:c40f1e
+back:22:a1144a
+ready:20:771876
+ash:19:4f1ca0
+headed:17:281fca
+heading:16:3333c5
+headin:14:4b4bb5
+relaxin:13:6464a4
+returning:11:7b7b95
+cloud:10:91919e
+
+
+**The following topic did not pass the duplicate filter**
+**[ 5 matched out of 14 total words ]**
+[Topic Id: 1559, R: 0.153, p: 0.0000, N: 1003, Freq: 9900622]
+sleep:25:810000
+can't:23:b50c18
+lack:22:b01239
+deprived:21:91155a
+nights:20:71187c
+unable:19:521b9d
+insomnia:18:321ebf
+caffeine:16:2727cd
+catching:15:3a3ac1
+repeat:14:4d4db4
+function:13:5f5fa7
+grumpy:12:72729b
+snoring:11:848498
+overrated:10:9797a0
+
+
+[Topic Id: 1733, R: 0.153, p: 0.0000, N: 1003, Freq: 20577620]
+feel:25:810000
+felt:23:b50c18
+bad:22:b01239
+real:21:91155a
+earthquake:20:71187c
+suddenly:19:521b9d
+goo:18:321ebf
+numb:16:2727cd
+relieved:15:3a3ac1
+relaxed:14:4d4db4
+helpless:13:5f5fa7
+comfortable:12:72729b
+awful:11:848498
+refreshed:10:9797a0
+
+
+[Topic Id: 1053, R: 0.153, p: 0.0000, N: 1003, Freq: 14756324]
+thing:25:810000
+i've:23:b20b16
+funniest:22:b61233
+heard:21:991452
+sweetest:20:791873
+ive:19:5c1a92
+cutest:18:401db1
+possibly:17:2320cf
+coolest:16:3030c7
+easiest:15:4141bc
+eve:14:5454af
+stupidest:13:6565a4
+saddest:12:767698
+craziest:11:868699
+fell:10:9898a0
+
+
+[Topic Id: 1934, R: 0.153, p: 0.0000, N: 1003, Freq: 18467830]
+day:25:810000
+ruin:22:a61344
+brighten:19:5c1a92
+remembered:16:2727cd
+smiles:13:5454af
+promising:10:7e7e95
+
+
+[Topic Id: 431, R: 0.153, p: 0.0000, N: 1003, Freq: 20835522]
+don't:25:810000
+feel:23:c40f1e
+anymore:22:a1144a
+beg:20:771876
+begging:19:4f1ca0
+honestly:17:281fca
+knees:16:3333c5
+clue:14:4b4bb5
+hollow:13:6464a4
+creeping:11:7b7b95
+sympathy:10:91919e
+
+
+[Topic Id: 1717, R: 0.152, p: 0.0000, N: 1003, Freq: 12658063]
+feel:25:810000
+sick:23:b20b16
+crap:22:b61233
+feeling:21:991452
+ugh:20:791873
+hate:19:5c1a92
+feels:18:401db1
+sucks:17:2320cf
+crappy:16:3030c7
+bleh:15:4141bc
+worse:14:5454af
+miserable:13:6565a4
+sickness:12:767698
+icky:11:868699
+=(:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 3 matched out of 10 total words ]**
+[Topic Id: 139, R: 0.152, p: 0.0000, N: 1003, Freq: 15655876]
+home:25:810000
+work:23:810000
+back:21:991452
+finally:20:6c1981
+hours:18:401db1
+headed:16:2727cd
+exhausted:15:4141bc
+chilling:13:5c5ca9
+hrs:11:767698
+stretch:10:8f8f9d
+
+
+**The following topic did not pass the duplicate filter**
+**[ 4 matched out of 9 total words ]**
+[Topic Id: 427, R: 0.152, p: 0.0000, N: 1003, Freq: 21165602]
+school:25:810000
+tommorow:23:c01128
+tommorrow:21:8e165d
+yay:19:5c1a92
+foward:17:2a1fc7
+tomorow:15:3636c3
+orientation:13:5454af
+exited:11:70709c
+comming:10:8c8c9c
+
+
+[Topic Id: 1644, R: 0.152, p: 0.0000, N: 1003, Freq: 14162026]
+it's:25:810000
+time:23:810000
+guess:21:991452
+hard:20:6c1981
+unbelievable:18:401db1
+day's:16:2727cd
+leaves:15:4141bc
+surprising:13:5c5ca9
+sorts:11:767698
+woooooo:10:8f8f9d
+
+
+**The following topic did not pass the duplicate filter**
+**[ 4 matched out of 15 total words ]**
+[Topic Id: 1932, R: 0.152, p: 0.0000, N: 1003, Freq: 17196343]
+nervous:25:810000
+excited:23:b20b16
+tomorrow:22:b61233
+kinda:21:991452
+anxious:20:791873
+scared:19:5c1a92
+starting:18:401db1
+luck:17:2320cf
+breakdown:16:3030c7
+interview:15:4141bc
+wreck:14:5454af
+audition:13:6565a4
+surgery:12:767698
+extremely:11:868699
+worried:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 4 matched out of 15 total words ]**
+[Topic Id: 1333, R: 0.152, p: 0.0000, N: 1003, Freq: 16797761]
+today:25:810000
+day:23:b20b16
+work:22:b61233
+literally:21:991452
+nice:20:791873
+exciting:19:5c1a92
+missed:18:401db1
+busy:17:2320cf
+dressed:16:3030c7
+bummer:15:4141bc
+thomas:14:5454af
+opportunity:13:6565a4
+capable:12:767698
+woohooo:11:868699
+accomplishment:10:9898a0
+
+
+[Topic Id: 30, R: 0.152, p: 0.0000, N: 1003, Freq: 20950043]
+pretty:25:810000
+good:23:b20b16
+darn:22:b61233
+liars:21:991452
+damn:20:791873
+intense:19:5c1a92
+dang:18:401db1
+stoked:17:2320cf
+decent:16:3030c7
+legit:15:4141bc
+yep:14:5454af
+impressive:13:6565a4
+pumped:12:767698
+admit:11:868699
+bummed:10:9898a0
+
+
+[Topic Id: 1068, R: 0.151, p: 0.0000, N: 1003, Freq: 15829475]
+i'm:26:810000
+glad:21:81176b
+guessing:16:2727cd
+hoping:11:6969a1
+
+
+[Topic Id: 193, R: 0.151, p: 0.0000, N: 1003, Freq: 20284700]
+good:25:810000
+mood:23:810000
+bad:21:991452
+pretty:20:6c1981
+surprisingly:18:401db1
+vibes:16:2727cd
+ridiculously:15:4141bc
+amazingly:13:5c5ca9
+oddly:11:767698
+depending:10:8f8f9d
+
+
+[Topic Id: 672, R: 0.151, p: 0.0000, N: 1003, Freq: 19638683]
+i'm:25:810000
+ready:23:b20b16
+bound:22:b61233
+moon:21:991452
+clear:20:791873
+space:19:5c1a92
+determined:18:401db1
+heart's:17:2320cf
+june:16:3030c7
+ship:15:4141bc
+rocket:14:5454af
+miles:13:6565a4
+joking:12:767698
+i'ma:11:868699
+eminem:10:9898a0
+
+
+[Topic Id: 1369, R: 0.151, p: 0.0000, N: 1003, Freq: 22373482]
+today:25:810000
+hope:23:c40f1e
+abby:22:a1144a
+enjoyed:20:771876
+fragile:19:4f1ca0
+odd:17:281fca
+odds:16:3333c5
+impressive:14:4b4bb5
+suffered:13:6464a4
+saddest:11:7b7b95
+gandhi:10:91919e
+
+
+**The following topic did not pass the duplicate filter**
+**[ 4 matched out of 12 total words ]**
+[Topic Id: 417, R: 0.151, p: 0.0000, N: 1003, Freq: 14361637]
+don't:25:810000
+care:23:be0e1c
+anymore:22:a61344
+honestly:20:81176b
+pretend:19:5c1a92
+act:18:381eb9
+bother:16:2727cd
+stare:15:3d3dbf
+else's:14:5454af
+cared:12:6969a1
+breed:11:7e7e95
+fooled:10:93939f
+
+
+[Topic Id: 462, R: 0.151, p: 0.0000, N: 1003, Freq: 22719090]
+thing:25:810000
+careful:23:b20b16
+loves:22:b61233
+mine:21:991452
+thin:20:791873
+drop:19:5c1a92
+mess:18:401db1
+needed:17:2320cf
+faults:16:3030c7
+pick:15:4141bc
+daughter:14:5454af
+thick:13:6565a4
+careless:12:767698
+rebel:11:868699
+man's:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 2 matched out of 5 total words ]**
+[Topic Id: 1625, R: 0.151, p: 0.0000, N: 1003, Freq: 22830849]
+it's:25:810000
+i'm:21:991452
+alright:17:401db1
+it'll:13:4141bc
+what's:10:767698
+
+
+[Topic Id: 1921, R: 0.150, p: 0.0000, N: 1003, Freq: 20738199]
+place:25:810000
+miss:23:b20b16
+heaven:22:b61233
+hold:21:991452
+pick:20:791873
+turns:19:5c1a92
+bunch:18:401db1
+smile:17:2320cf
+arms:16:3030c7
+grow:15:4141bc
+kiss:14:5454af
+they're:13:6565a4
+everyday:12:767698
+lord:11:868699
+dad:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 5 matched out of 15 total words ]**
+[Topic Id: 887, R: 0.150, p: 0.0000, N: 1003, Freq: 15261251]
+tired:25:810000
+soooo:23:b20b16
+sooo:22:b61233
+sooooo:21:991452
+sleep:20:791873
+sore:19:5c1a92
+bed:18:401db1
+soooooo:17:2320cf
+tire:16:3030c7
+extremely:15:4141bc
+freaking:14:5454af
+yawn:13:6565a4
+soooooooo:12:767698
+nap:11:868699
+worn:10:9898a0
+
+
+[Topic Id: 262, R: 0.150, p: 0.0000, N: 1003, Freq: 14484485]
+made:25:810000
+glad:23:810000
+ace:21:991452
+lord:20:6c1981
+rejoice:18:401db1
+whew:16:2727cd
+tot:15:4141bc
+base:13:5c5ca9
+hath:11:767698
+cakes:10:8f8f9d
+
+
+[Topic Id: 587, R: 0.150, p: 0.0000, N: 1003, Freq: 17659594]
+you're:25:810000
+don't:23:b20b16
+there's:22:b61233
+jealous:21:991452
+you'd:20:791873
+saves:19:5c1a92
+bet:18:401db1
+vain:17:2320cf
+life's:16:3030c7
+tells:15:4141bc
+clever:14:5454af
+sweetie:13:6565a4
+pretending:12:767698
+tease:11:868699
+heart's:10:9898a0
+
+
+**The following topic did not pass the duplicate filter**
+**[ 2 matched out of 7 total words ]**
+[Topic Id: 1242, R: 0.150, p: 0.0000, N: 1003, Freq: 16323760]
+time:25:810000
+bed:22:b01239
+usual:20:71187c
+sigh:17:321ebf
+sleepy:15:3a3ac1
+possibly:12:5f5fa7
+alas:10:848498
+
+
+**The following topic did not pass the duplicate filter**
+**[ 3 matched out of 11 total words ]**
+[Topic Id: 1250, R: 0.150, p: 0.0000, N: 1003, Freq: 15710303]
+day:25:810000
+long:23:c40f1e
+gonna:22:a1144a
+looong:20:771876
+loooong:19:4f1ca0
+boring:17:281fca
+ahead:16:3333c5
+todays:14:4b4bb5
+tomorrows:13:6464a4
+tomorrow's:11:7b7b95
+tiring:10:91919e
+
+
+[Topic Id: 514, R: 0.150, p: 0.0000, N: 1003, Freq: 17113340]
+it's:25:810000
+time:22:b81231
+long:20:81176b
+i've:18:4a1ca6
+waiting:16:2727cd
+unpredictable:14:4848b7
+stays:12:6969a1
+reach:10:88889a
+
+
+**The following topic did not pass the duplicate filter**
+**[ 2 matched out of 6 total words ]**
+[Topic Id: 1367, R: 0.150, p: 0.0000, N: 1003, Freq: 12836490]
+i'm:25:810000
+glad:22:a61344
+i've:19:5c1a92
+convinced:16:2727cd
+sucker:13:5454af
+needless:10:7e7e95
+
+
+**The following topic did not pass the duplicate filter**
+**[ 3 matched out of 8 total words ]**
+[Topic Id: 748, R: 0.150, p: 0.0000, N: 1003, Freq: 22475614]
+day:25:810000
+today:22:b81231
+yesterday:20:81176b
+hoping:18:4a1ca6
+productive:16:2727cd
+eventful:14:4848b7
+absent:12:6969a1
+needless:10:88889a
